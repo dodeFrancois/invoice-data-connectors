@@ -44,3 +44,6 @@ scripts/eslint-rules/tools/missingKeys.json
 
 # CI
 deploy.env
+
+# Env
+.env
